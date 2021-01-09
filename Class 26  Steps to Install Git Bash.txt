@@ -1,0 +1,16 @@
+Refer the below link:
+https://git-scm.com/download/win
+
+Open the link of pdf on web browser
+click on download
+double click on downloaded file
+Click next
+again next
+select additional icon on desktop
+Next
+Select 1st radio button use git from git bash only
+Use the open ssl library
+After that just clicking next
+No changes select by default
+At the end select Launch Git 
+Click next
